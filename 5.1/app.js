@@ -1,0 +1,1 @@
+// this is folder as simple practice files(promise, callback, try-catch, async await, simple app, readfile)

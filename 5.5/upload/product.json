@@ -1,0 +1,24 @@
+[
+    {
+        "currentPrice": "29.99",
+        "id": 1,
+        "productName": "Handcrafted Leather Wallet",
+        "actualPrice": "29.99",
+        "offerPrice": "24.99",
+        "offerStartDate": "2024-05-25",
+        "offerEndDate": "2024-05-30",
+        "createdAt": "2024-04-09T05:49:55.000Z",
+        "updatedAt": "2024-04-09T05:49:55.000Z"
+    },
+    {
+        "currentPrice": "29.99",
+        "id": 3,
+        "productName": "belt",
+        "actualPrice": "29.99",
+        "offerPrice": "24.99",
+        "offerStartDate": "2024-05-25",
+        "offerEndDate": "2024-05-30",
+        "createdAt": "2024-04-09T05:56:53.000Z",
+        "updatedAt": "2024-04-09T05:56:53.000Z"
+    }
+]
